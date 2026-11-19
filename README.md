@@ -15,7 +15,7 @@ r = simulate_dram(Wp=2.33u"μm", Rref=70.1u"kΩ")    # 4 writes, then 4 reads
 plot_dram(r); read_results(r); bumps(r)
 ```
 
-Requires Microelectronics ≥ 1.4.7 (the AMI models) and SchematicSVG ≥ 0.12.8 (logic gates).
+Requires Microelectronics ≥ 1.5.0 (the AMI models) and SchematicSVG ≥ 0.13.0 (logic gates).
 
 ## Registering in LEFT_registry
 

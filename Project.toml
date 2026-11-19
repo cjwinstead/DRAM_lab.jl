@@ -11,9 +11,9 @@ SchematicSVG = "fe0f8afc-60ab-40bb-850f-aaaf3f1447e3"
 Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
 
 [compat]
-Microelectronics = "1.4.7"
+Microelectronics = "1.5"
 Plots = "1"
 Printf = "1"
-SchematicSVG = "0.12.8"
+SchematicSVG = "0.13, 0.14"
 Unitful = "1"
 julia = "1.10"
