@@ -1,0 +1,4 @@
+[deps]
+DRAM_lab = "7cf7bbf8-47d1-49f4-bd88-44f45eb9e858"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
