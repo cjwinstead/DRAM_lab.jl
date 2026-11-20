@@ -51,7 +51,7 @@ in----+     s
 const DYNAMIC_AND_ART = """
               vdd
                |
-    clk1---|P1
+       clk1---|P1
                |
                *--@qn---INV1---q
                |
@@ -59,7 +59,7 @@ const DYNAMIC_AND_ART = """
                |
        b-----|N2
                |
-    clk2---|N3
+       clk2---|N3
                |
               gnd
 """
